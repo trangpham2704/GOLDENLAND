@@ -1,0 +1,45 @@
+.tuyendung {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-bottom: 5px;
+    color: gold;
+}
+
+.dkcontact1 {
+    color: goldenrod;
+    width: 25%;
+    float: left;
+    margin-left: 100px;
+}
+
+.dkcontact2 {
+    color: goldenrod;
+    width: 25%;
+    float: right;
+    margin-right: 100px;
+}
+
+td {
+    text-align: justify;
+}
+
+th {
+    text-align: justify;
+}
+
+.tdtuyendung {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.thongtinlienhe {
+    font-size: 20px;
+    margin-bottom: 10px;
+    color: white;
+    margin-left: 5px;
+}

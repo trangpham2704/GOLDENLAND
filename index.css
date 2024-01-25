@@ -1,0 +1,181 @@
+.nav-link {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.td {
+    font-size: 24px;
+    color: gold;
+    text-align: center;
+}
+
+.gt {
+    margin-top: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: justify;
+    border: outset gold;
+}
+
+#id {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.hinhbt {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    border: 2px solid;
+    margin-bottom: 15px;
+}
+
+.hinhbt1 {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border: 2px solid;
+    margin-bottom: 15px;
+}
+
+.namebt {
+    font-size: 50px;
+    float: left;
+    margin-left: 135px;
+}
+
+.namebtgt {
+    font-size: 30px;
+    float: left;
+    margin-left: 50px;
+}
+
+.namebt1 {
+    float: left;
+}
+
+.tieudebt {
+    text-align: center;
+    clear: both;
+}
+
+.tieudebt1 {
+    text-align: center;
+    clear: both;
+    font-size: 18px;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-footer {
+    text-align: center;
+}
+
+label {
+    color: goldenrod;
+    font-size: 15px;
+}
+
+#icon {
+    margin-right: 10px;
+    margin-left: 10px;
+    color: gold;
+}
+
+.footer {
+    color: white;
+    margin-left: 10px;
+    margin-right: 10%;
+}
+
+.tdfooter {
+    font-size: 22px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+@-webkit-keyframes my {
+    0% {
+        color: #ffff00;
+    }
+    50% {
+        color: #fff;
+    }
+    100% {
+        color: #ffff00;
+    }
+}
+
+@-moz-keyframes my {
+    0% {
+        color: #ffff00;
+    }
+    50% {
+        color: #fff;
+    }
+    100% {
+        color: #ffff00;
+    }
+}
+
+@-o-keyframes my {
+    0% {
+        color: #ffff00;
+    }
+    50% {
+        color: #fff;
+    }
+    100% {
+        color: #ffff00;
+    }
+}
+
+@keyframes my {
+    0% {
+        color: #ffff00;
+    }
+    50% {
+        color: #fff;
+    }
+    100% {
+        color: #ffff00;
+    }
+}
+
+.nhapnhay {
+    -webkit-animation: my 700ms infinite;
+    -moz-animation: my 700ms infinite;
+    -o-animation: my 700ms infinite;
+    animation: my 700ms infinite;
+    font-size: 30px;
+}
+
+#btnlh {
+    margin-top: 70px;
+    margin-left: 50px;
+    width: 300px;
+    border-radius: 20px;
+    height: 70px;
+    border: #fff;
+}
+
+#btnlh1 {
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 300px;
+    border-radius: 20px;
+    border: #fff;
+}
+
+#logodoitac {
+    margin-top: 25px;
+}
+
+#logo {
+    width: 290px;
+    margin: 10px;
+}
