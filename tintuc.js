@@ -1,7 +1,7 @@
    function m2_t2() {
        document.getElementById("noidung").innerHTML =
            '<div class="tinduan">' +
-           '<h1 style="color: goldenrod; font-size: 29px; font-weight: bold; "> TIN THỊ TRƯỜNG ' + '</h1>' +
+           '<h1 style="color: goldenrod; font-size: 29px; font-weight: bold; "> TIN TỨC THỊ TRƯỜNG ' + '</h1>' +
            '<hr size="5px" style="width: 18%; color: goldenrod;">' +
            '   <div class="card mb-3 " style="max-width: 1200px; ">' +
            '<div class="row g-0 ">' +
