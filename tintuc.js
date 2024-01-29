@@ -1,9 +1,38 @@
    function m2_t2() {
        document.getElementById("noidung").innerHTML =
            '<div class="tinduan">' +
-           '<h1 style="color: goldenrod; font-size: 29px; font-weight: bold; "> TIN TỨC THỊ TRƯỜNG ' + '</h1>' +
+           '<h1 style="color: goldenrod; font-size: 29px; font-weight: bold; "> TIN TỨC THỊ TRƯỜNG ' +
+           '</h1>' +
            '<hr size="5px" style="width: 18%; color: goldenrod;">' +
-           '   <div class="card mb-3 " style="max-width: 1200px; ">' +
+
+           '<div class="card mb-3 " style="max-width: 1200px; ">' +
+           '<div class="row g-0 ">' +
+           '<div class="col-md-4 ">' +
+           '<img src="img/TINTUC/3.png  " class="img-fluid rounded-start " alt="... " style="margin:20px; ">' +
+           '</div>' +
+           '<div class="col-md-8 ">' +
+           '<div class="card-body ">' +
+           '<h5 class="card-title " style="text-align: justify; color: goldenrod; font-size: 27px; font-weight: bold;margin:20px; ">Thủ tướng yêu cầu NHNN có giải pháp thiết thực thúc đẩy việc cho vay đối với các doanh nghiệp BĐS</h5>' +
+           '<p class="card-text " style="text-align: justify; font-size: 18px;margin:20px; ">Thủ tướng Chính phủ Phạm Minh Chính vừa ký ban hành Công điện số 1376/CĐ-TTg ngày 17/12/2023 về việc tiếp tục thực hiện quyết liệt, kịp thời, hiệu quả các giải pháp thúc đẩy thị trường bất động sản phát triển an toàn, lành mạnh, bền vững...<br><small style="font-size: 13px;">29-12-2023 </small><br> <br> <a href="tintuc/baibao1.html" style="color: goldenrod; margin-left:600px; ">XEM CHI TIẾT</a></p>' +
+           '</div>' +
+           '</div>' +
+           '</div>' +
+           '</div>' +
+
+           '<div class="card mb-3 " style="max-width: 1200px; ">' +
+           '<div class="row g-0 ">' +
+           '<div class="col-md-4 ">' +
+           '<img src="https://cafefcdn.com/thumb_w/640/203337114487263232/2023/12/17/avatar1694997104786-16949971051121799358516-241-0-1441-1920-crop-17028304185151500468796.jpg " class="img-fluid rounded-start " alt="... " style="margin:20px; ">' +
+           '</div>' +
+           '<div class="col-md-8 ">' +
+           '<div class="card-body ">' +
+           '<h5 class="card-title " style="text-align: justify; color: goldenrod; font-size: 27px; font-weight: bold;margin:20px; ">Chuyên gia tiết lộ thời điểm thị trường bất động sản đảo chiều sang sôi động</h5>' +
+           '<p class="card-text " style="text-align: justify; font-size: 18px;margin:20px; ">Các chuyên gia đều cho rằng, từ nửa cuối năm 2024, thị trường bất động sản sẽ vào giai đoạn đảo chiều.<br><small style="font-size: 13px;">26-12-2023 </small><br> <br> <a href="tintuc/bao10.html" style="color: goldenrod; margin-left:600px; ">XEM CHI TIẾT</a></p>' +
+           '</div>' +
+           '</div>' +
+           '</div>' +
+           '</div>' +
+           '<div class="card mb-3 " style="max-width: 1200px; ">' +
            '<div class="row g-0 ">' +
            ' <div class="col-md-4 ">' +
            '<img src="img/TINTUC/4.png " class="img-fluid rounded-start " alt="... " style="margin:20px; ">' +
