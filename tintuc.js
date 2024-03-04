@@ -13,7 +13,7 @@
            '<div class="col-md-8 ">' +
            '<div class="card-body ">' +
            '<h5 class="card-title " style="text-align: justify; color: goldenrod; font-size: 27px; font-weight: bold;margin:20px; ">Thủ tướng yêu cầu NHNN có giải pháp thiết thực thúc đẩy việc cho vay đối với các doanh nghiệp BĐS</h5>' +
-           '<p class="card-text " style="text-align: justify; font-size: 18px;margin:20px; ">Thủ tướng Chính phủ Phạm Minh Chính vừa ký ban hành Công điện số 1376/CĐ-TTg ngày 17/12/2023 về việc tiếp tục thực hiện quyết liệt, kịp thời, hiệu quả các giải pháp thúc đẩy thị trường bất động sản phát triển an toàn, lành mạnh, bền vững...<br><small style="font-size: 13px;">29-12-2023 </small><br> <br> <a href="tintuc/baibao1.html" style="color: goldenrod; margin-left:600px; ">XEM CHI TIẾT</a></p>' +
+           '<p class="card-text " style="text-align: justify; font-size: 18px;margin:20px; ">Thủ tướng Chính phủ Phạm Minh Chính vừa ký ban hành Công điện số 1376/CĐ-TTg ngày 17/12/2023 về việc tiếp tục thực hiện quyết liệt, kịp thời, hiệu quả các giải pháp thúc đẩy thị trường bất động sản phát triển an toàn, lành mạnh, bền vững...<br><small style="font-size: 13px;">29-12-2023 </small><br> <br> <a href="tintuc/29122023.html" style="color: goldenrod; margin-left:600px; ">XEM CHI TIẾT</a></p>' +
            '</div>' +
            '</div>' +
            '</div>' +
@@ -27,7 +27,7 @@
            '<div class="col-md-8 ">' +
            '<div class="card-body ">' +
            '<h5 class="card-title " style="text-align: justify; color: goldenrod; font-size: 27px; font-weight: bold;margin:20px; ">Chuyên gia tiết lộ thời điểm thị trường bất động sản đảo chiều sang sôi động</h5>' +
-           '<p class="card-text " style="text-align: justify; font-size: 18px;margin:20px; ">Các chuyên gia đều cho rằng, từ nửa cuối năm 2024, thị trường bất động sản sẽ vào giai đoạn đảo chiều.<br><small style="font-size: 13px;">26-12-2023 </small><br> <br> <a href="tintuc/bao10.html" style="color: goldenrod; margin-left:600px; ">XEM CHI TIẾT</a></p>' +
+           '<p class="card-text " style="text-align: justify; font-size: 18px;margin:20px; ">Các chuyên gia đều cho rằng, từ nửa cuối năm 2024, thị trường bất động sản sẽ vào giai đoạn đảo chiều.<br><small style="font-size: 13px;">26-12-2023 </small><br> <br> <a href="tintuc/26122023.html" style="color: goldenrod; margin-left:600px; ">XEM CHI TIẾT</a></p>' +
            '</div>' +
            '</div>' +
            '</div>' +
@@ -40,7 +40,7 @@
            '<div class="col-md-8 ">' +
            '<div class="card-body ">' +
            '<h5 class="card-title " style="text-align: justify; color: goldenrod; font-size: 27px; font-weight: bold;margin:20px; ">Thủ tướng yêu cầu Bộ Xây dựng, Bộ TNMT, Ngân Hàng Nhà Nước đồng loạt gỡ khó cho bất động sản</h5>' +
-           '<p class="card-text " style="text-align: justify; font-size: 18px;margin:20px; ">Thủ tướng Chính phủ yêu cầu Bộ trưởng các Bộ: Xây dựng, Tài nguyên và Môi trường, Thống đốc Ngân hàng Nhà nước Việt Nam, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các doanh nghiệp quyết liệt triển khai giải pháp...<br><small style="font-size: 13px; ">23-12-2023 </small><br> <br> <a href="tintuc/bao1_1.html" style="color: goldenrod; margin-left:600px; ">XEM CHI TIẾT</a> </center></p>' +
+           '<p class="card-text " style="text-align: justify; font-size: 18px;margin:20px; ">Thủ tướng Chính phủ yêu cầu Bộ trưởng các Bộ: Xây dựng, Tài nguyên và Môi trường, Thống đốc Ngân hàng Nhà nước Việt Nam, Chủ tịch Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương và các doanh nghiệp quyết liệt triển khai giải pháp...<br><small style="font-size: 13px; ">23-12-2023 </small><br> <br> <a href="tintuc/23122023.html" style="color: goldenrod; margin-left:600px; ">XEM CHI TIẾT</a> </center></p>' +
            '</div>' +
            '</div>' +
            '</div>' +
@@ -53,7 +53,7 @@
            '<div class="col-md-8">' +
            '<div class="card-body">' +
            '<h5 class="card-title" style="text-align: justify; color: goldenrod; font-size: 27px; font-weight: bold;margin:20px;">Thị trường bất động sản năm tới sẽ ‘sáng cửa’?</h5>' +
-           '<p class="card-text" style="text-align: justify; font-size: 18px;margin:20px; ">Theo nhiều chuyên gia dự báo, hai quý đầu của năm 2024 sẽ có nhiều hơn các điểm sáng tích cực của thị trường bất động sản. Trong đó, phân khúc nhà ở xã hội có nhiều dấu hiệu tích cực nhất.<br><small  style="font-size: 13px;">20-12-2023</small><br> <br> <a href="tintuc/bao1_2.html" style="color: goldenrod; margin-left:600px;">XEM CHI TIẾT</a></p>' +
+           '<p class="card-text" style="text-align: justify; font-size: 18px;margin:20px; ">Theo nhiều chuyên gia dự báo, hai quý đầu của năm 2024 sẽ có nhiều hơn các điểm sáng tích cực của thị trường bất động sản. Trong đó, phân khúc nhà ở xã hội có nhiều dấu hiệu tích cực nhất.<br><small  style="font-size: 13px;">20-12-2023</small><br> <br> <a href="tintuc/20122023.html" style="color: goldenrod; margin-left:600px;">XEM CHI TIẾT</a></p>' +
            '</div>' +
            '</div>' +
            '</div>' +
@@ -66,7 +66,7 @@
            '<div class="col-md-8">' +
            '<div class="card-body">' +
            '<h5 class="card-title" style="text-align: justify; color: goldenrod; font-size: 27px; font-weight: bold;margin:20px;">Thị trường bất động sản sẽ đón cú huých lớn từ quý I/2024</h5>' +
-           '<p class="card-text" style="text-align: justify; font-size: 18px;margin:20px; ">Đó là nhận định của nhiều chuyên gia khi dự báo về thị trường bất động sản năm 2024 sắp tới.<br><small  style="font-size: 13px;">17-12-2023 </small><br> <br> <a href="tintuc/bao1_3.html" style="color: goldenrod; margin-left:600px;">XEM CHI TIẾT</a> </center></p>' +
+           '<p class="card-text" style="text-align: justify; font-size: 18px;margin:20px; ">Đó là nhận định của nhiều chuyên gia khi dự báo về thị trường bất động sản năm 2024 sắp tới.<br><small  style="font-size: 13px;">17-12-2023 </small><br> <br> <a href="tintuc/17122023.html" style="color: goldenrod; margin-left:600px;">XEM CHI TIẾT</a> </center></p>' +
            '</div>' +
            '</div>' +
            '</div>' +
@@ -79,7 +79,7 @@
            '<div class="col-md-8">' +
            '<div class="card-body">' +
            '<h5 class="card-title" style="text-align: justify; color: goldenrod; font-size: 27px; font-weight: bold;margin:20px;">Chuyên gia bất ngờ dự báo về chu kì sốt đất nền</h5>' +
-           '<p class="card-text" style="text-align: justify; font-size: 18px;margin:20px; ">Theo ông Nguyễn Văn Đính, Chủ tịch Hội môi giới bất động sản Việt Nam, chắc chắn sau khi vượt qua “đại nạn” này, các đối tượng sẽ hoạt động một cách cẩn trọng hơn, biết “liệu cơm gắp mắm”, “tự lượng sức mình” .<br><small  style="font-size: 13px;">14-12-2023</small><br> <br> <a href="tintuc/bao1_4.html" style="color: goldenrod; margin-left:600px;">XEM CHI TIẾT</a></p>' +
+           '<p class="card-text" style="text-align: justify; font-size: 18px;margin:20px; ">Theo ông Nguyễn Văn Đính, Chủ tịch Hội môi giới bất động sản Việt Nam, chắc chắn sau khi vượt qua “đại nạn” này, các đối tượng sẽ hoạt động một cách cẩn trọng hơn, biết “liệu cơm gắp mắm”, “tự lượng sức mình” .<br><small  style="font-size: 13px;">14-12-2023</small><br> <br> <a href="tintuc/14122023.html" style="color: goldenrod; margin-left:600px;">XEM CHI TIẾT</a></p>' +
            '</div>' +
            '</div>' +
            '</div>' +
@@ -92,7 +92,7 @@
            '<div class="col-md-8">' +
            '<div class="card-body">' +
            '<h5 class="card-title" style="text-align: justify; color: goldenrod; font-size: 27px; font-weight: bold;margin:20px;">Triển vọng thị trường bất động sản khi khung pháp lý hoàn thiện</h5>' +
-           '<p class="card-text" style="text-align: justify; font-size: 18px;margin:20px; ">VOV.VN - Có nhiều nguyên nhân khiến thị trường bất động sản rơi vào tình trạng khó khăn. Trong đó, có những vướng mắc, chồng chéo về thủ tục pháp lý khiến nhiều doanh nghiệp không thể phát triển dự án theo kế hoạch.<br><small  style="font-size: 13px;">11-12-2023</small><br> <br> <a href="tintuc/bao1_5.html" style="color: goldenrod; margin-left:600px;">XEM CHI TIẾT</a></p>' +
+           '<p class="card-text" style="text-align: justify; font-size: 18px;margin:20px; ">VOV.VN - Có nhiều nguyên nhân khiến thị trường bất động sản rơi vào tình trạng khó khăn. Trong đó, có những vướng mắc, chồng chéo về thủ tục pháp lý khiến nhiều doanh nghiệp không thể phát triển dự án theo kế hoạch.<br><small  style="font-size: 13px;">11-12-2023</small><br> <br> <a href="tintuc/11122023.html" style="color: goldenrod; margin-left:600px;">XEM CHI TIẾT</a></p>' +
            '</div>' +
            '</div>' +
            '</div>' +
@@ -106,7 +106,7 @@
            '<div class="col-md-8">' +
            '<div class="card-body">' +
            '<h5 class="card-title" style="text-align: justify; color: goldenrod; font-size: 27px; font-weight: bold;margin:20px;">Thị trường bất động sản hồ hởi chuẩn bị đón dòng vốn lớn đổ mạnh?</h5>' +
-           '<p class="card-text" style="text-align: justify; font-size: 18px;margin:20px; ">Sẽ có một lượng lớn nguồn vốn đến từ các nhà đầu tư nước ngoài dự kiến đổ vào thị trường bất động sản Việt Nam trong giai đoạn 2024-2026. Bên cạnh đó, dòng tiền dự kiến từ ngân hàng cũng sẽ có cơ hội đổ vào lĩnh vực địa ốc.<br><small  style="font-size: 13px;">08-12-2023</small><br> <br> <a href="tintuc/bao1_6.html" style="color: goldenrod; margin-left:600px;">XEM CHI TIẾT</a></p>' +
+           '<p class="card-text" style="text-align: justify; font-size: 18px;margin:20px; ">Sẽ có một lượng lớn nguồn vốn đến từ các nhà đầu tư nước ngoài dự kiến đổ vào thị trường bất động sản Việt Nam trong giai đoạn 2024-2026. Bên cạnh đó, dòng tiền dự kiến từ ngân hàng cũng sẽ có cơ hội đổ vào lĩnh vực địa ốc.<br><small  style="font-size: 13px;">08-12-2023</small><br> <br> <a href="tintuc/08122023.html" style="color: goldenrod; margin-left:600px;">XEM CHI TIẾT</a></p>' +
            '</div>' +
            '</div>' +
            '</div>' +
@@ -120,7 +120,7 @@
            '<div class="col-md-8">' +
            '<div class="card-body">' +
            '<h5 class="card-title" style="text-align: justify; color: goldenrod; font-size: 27px; font-weight: bold;margin:20px;">Nhà đầu tư bất động sản ráo riết “săn” đất dịp cuối năm</h5>' +
-           '<p class="card-text" style="text-align: justify; font-size: 18px;margin:20px; ">Trong bối cảnh thị trường bất động sản đã có những khởi sắc nhất định, nhiều nhà đầu tư đang tranh thủ “săn” đất để sẵn sàng cho chu kỳ mới.<br><small  style="font-size: 13px;">06-12-2023</small><br> <br> <a href="tintuc/bao1_7.html" style="color: goldenrod; margin-left:600px;">XEM CHI TIẾT</a></p>' +
+           '<p class="card-text" style="text-align: justify; font-size: 18px;margin:20px; ">Trong bối cảnh thị trường bất động sản đã có những khởi sắc nhất định, nhiều nhà đầu tư đang tranh thủ “săn” đất để sẵn sàng cho chu kỳ mới.<br><small  style="font-size: 13px;">06-12-2023</small><br> <br> <a href="tintuc/06122023.html" style="color: goldenrod; margin-left:600px;">XEM CHI TIẾT</a></p>' +
            '</div>' +
            '</div>' +
            '</div>' +
@@ -134,7 +134,7 @@
            '<div class="col-md-8">' +
            '<div class="card-body">' +
            '<h5 class="card-title" style="text-align: justify; color: goldenrod; font-size: 27px; font-weight: bold;margin:20px;">Bất động sản đi qua vùng đáy, phục hồi chậm mà chắc</h5>' +
-           '<p class="card-text" style="text-align: justify; font-size: 18px;margin:20px; ">Khảo sát của các sàn bất động sản cho biết, xu hướng hồi phục đang diễn ra trong một số phân khúc, trong đó cả chung cư, nhà mặt phố.<br><small  style="font-size: 13px;">04-12-2023</small><br> <br> <a href="tintuc/bao1_8.html" style="color: goldenrod; margin-left:600px;">XEM CHI TIẾT</a></p>' +
+           '<p class="card-text" style="text-align: justify; font-size: 18px;margin:20px; ">Khảo sát của các sàn bất động sản cho biết, xu hướng hồi phục đang diễn ra trong một số phân khúc, trong đó cả chung cư, nhà mặt phố.<br><small  style="font-size: 13px;">04-12-2023</small><br> <br> <a href="tintuc/04122023.html" style="color: goldenrod; margin-left:600px;">XEM CHI TIẾT</a></p>' +
            '</div>' +
            '</div>' +
            '</div>' +
